@@ -1,0 +1,20 @@
+[
+  {
+    "main": {
+      "name": "SampleTC7",
+      "taxtype": "GST_SG_RC",
+      "description": "Sample Test Case 7 TaxRate update",
+      "isinactive": false,
+      "taxrate": 6.0
+    }
+  },
+  {
+    "main": {
+      "name": "SampleTC4",
+      "taxtype": "SampleTT",
+      "description": "Sample Test Case 4 New taxRate check",
+      "isinactive": false,
+      "taxrate": 10.0
+    }
+  }
+]
